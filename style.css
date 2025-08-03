@@ -8,7 +8,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, rgb(179, 244, 246), #e95ba2, #53bdff);
+    background: linear-gradient(135deg, rgb(179, 244, 246), #B5CA5B, #1A8C25);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,12 +19,12 @@ body {
 }
 
 .container {
-    background: linear-gradient(135deg, rgb(160, 180, 211), #abcef4, #b549a6);
+    background: linear-gradient(135deg, rgb(160, 180, 211), #B5CA5B, #1A8C25);
     padding: 10px;
     border-radius: 12px;
     max-width: 400px;
     width: 100%;   
-    box-shadow: rgba(255, 0, 128, 0.6) 0px 5px 15px;
+    box-shadow: rgba(255, 255, 255, 0.6) 0px 5px 15px;
     
 }
 
