@@ -69,7 +69,7 @@ body {
        gap: 5px; /* Espaçamento entre os botões */
        margin-top: -7px; /* Ajuste conforme necessário */
        width: 100%; /* Para ocupar todo o espaço disponível */
-       margin-left: 2px;
+       margin-left: 1px;
        
    }
    .botoes a {
@@ -90,7 +90,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: -198px;
-    margin-left: 95px;
+    margin-left: 96px;
     width: 180px;
 }
 
@@ -129,3 +129,4 @@ body {
     width: 140px;
 }
 }
+
