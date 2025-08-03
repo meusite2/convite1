@@ -113,19 +113,19 @@ body {
     .botoes{    
     width: 100%;
     margin-top: -5px;   
-    gap: 0px;
+    gap: 4px;
     margin-left: 1px;
     
 }
     .botoes a{
-        width: 76px;
+        width: 80px;
     }
 
     .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -162px;
-    margin-left: 82px;
+    margin-top: -180px;
+    margin-left: 100px;
     width: 140px;
 }
 }
