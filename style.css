@@ -67,9 +67,9 @@ body {
        display: flex;
        justify-content: center; /* Centraliza os botões horizontalmente */
        gap: 5px; /* Espaçamento entre os botões */
-       margin-top: -9px; /* Ajuste conforme necessário */
+       margin-top: -7px; /* Ajuste conforme necessário */
        width: 100%; /* Para ocupar todo o espaço disponível */
-       margin-left: 3px;
+       margin-left: 2px;
        
    }
    .botoes a {
@@ -89,7 +89,7 @@ body {
 .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -185px;
+    margin-top: -198px;
     margin-left: 95px;
     width: 180px;
 }
@@ -112,20 +112,20 @@ body {
 @media screen and (max-width: 400px){
     .botoes{    
     width: 100%;
-    margin-top: -10px;   
-    gap: 2px;
-    margin-left: 2px;
+    margin-top: -5px;   
+    gap: 0px;
+    margin-left: 1px;
     
 }
     .botoes a{
-        width: 80px;
+        width: 76px;
     }
 
     .interage{
     display: flex;
     flex-direction: row;
-    margin-top: -159px;
-    margin-left: 98px;
+    margin-top: -162px;
+    margin-left: 82px;
     width: 140px;
 }
 }
